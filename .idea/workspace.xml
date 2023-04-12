@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c311cc60-f241-4cbf-8424-d553dbdbf4cf" name="Changes" comment="refatorando, criada classe mãe abstrata Conteudo e usando as classes filhas Curso e Mentoria.">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="c311cc60-f241-4cbf-8424-d553dbdbf4cf" name="Changes" comment="Criação das classes Bootcamp e Dev.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681254363450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criação das classes Bootcamp e Dev.">
+      <created>1681255235477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681255235477</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,6 +92,7 @@
     <MESSAGE value="add README.md criado pela tutora Cami-la" />
     <MESSAGE value="criando classes primárias, abstração e polimorfismo." />
     <MESSAGE value="refatorando, criada classe mãe abstrata Conteudo e usando as classes filhas Curso e Mentoria." />
-    <option name="LAST_COMMIT_MESSAGE" value="refatorando, criada classe mãe abstrata Conteudo e usando as classes filhas Curso e Mentoria." />
+    <MESSAGE value="Criação das classes Bootcamp e Dev." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação das classes Bootcamp e Dev." />
   </component>
 </project>
